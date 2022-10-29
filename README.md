@@ -1,6 +1,8 @@
-# Hardhat Project
+# Delegate Call Hack - Example
 
 Simply execute the Hardhat instructions below and observe the console output!
+
+# Hardhat Project
 
 Try running some of the following tasks:
 
